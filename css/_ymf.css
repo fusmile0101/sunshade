@@ -130,7 +130,7 @@ h2{font-size:20px;font-weight:normal;}
 /************************************************************************************************************/
 /************************************************************************************************************/
 /*** 内页代码 ***/
-.banner{min-width:1200px;padding-top:200px;background:url('../images/bn1.jpg') center no-repeat;}
+/* .banner{min-width:1200px;padding-top:200px;background:url('../images/bn1.jpg') center no-repeat;}
 .banner .bg{background:url('../images/shape.png') center no-repeat;height:120px;}
 .container{padding-top:25px;}
 .container .ml{width:200px;}
@@ -155,30 +155,30 @@ h2{font-size:20px;font-weight:normal;}
 .page .num{display:none;}
 .page a,
 .page .on{color:#999;margin:0 10px;}
-.page .on{color:#4e8f02;}
+.page .on{color:#4e8f02;} */
 
 /************************************************************************************************************/
 /************************************************************************************************************/
 /*** 关于我们代码 ***/
-.about{}
-.about p{margin-bottom:30px;line-height:27px;text-indent:2em;}
+/* .about{}
+.about p{margin-bottom:30px;line-height:27px;text-indent:2em;} */
 
 /************************************************************************************************************/
 /************************************************************************************************************/
 /*** 产品展示代码 ***/
-.product li{margin-bottom:40px;width:280px;margin-right:25px;text-align:center;float:left;}
+/* .product li{margin-bottom:40px;width:280px;margin-right:25px;text-align:center;float:left;}
 .product li img{width:280px;height:210px;}
 .product li p{padding:5px 0;}
 .product li span{display:inline-block;margin:0 5px;vertical-align:top;height:20px;line-height:20px;overflow:hidden;}
 .product li .ico{background-position:0 -177px;width:40px;}
 .product li .p{max-width:150px;_width:120px;}
 .product li:hover span{color:#4e8f02;}
-.product li:hover .ico{background-position:0 -203px;}
+.product li:hover .ico{background-position:0 -203px;} */
 
 /************************************************************************************************************/
 /************************************************************************************************************/
 /*** 新闻动态代码 ***/
-.news li{height:157px;overflow:hidden;padding:30px 75px 30px 0;border-bottom:solid 1px #eee;position:relative;}
+/* .news li{height:157px;overflow:hidden;padding:30px 75px 30px 0;border-bottom:solid 1px #eee;position:relative;}
 .news li .img,
 .news li .img img{width:210px;height:157px;}
 .news li .img{float:left;position:relative;}
@@ -189,18 +189,18 @@ h2{font-size:20px;font-weight:normal;}
 .news li .txt span{margin-right:10px;}
 .news li .more{position:absolute;right:0;top:50%;margin-top:-13px;width:26px;height:26px;background-position:0px -150px;}
 .news li:hover .txt a{color:#4e8f02;}
-.news li:hover .more{background-position:-40px -150px;}
+.news li:hover .more{background-position:-40px -150px;} */
 
 /************************************************************************************************************/
 /*** 新闻动态-nei代码 ***/
-.newstext{}
+/* .newstext{}
 .newstext h2 span{display:inline-block;font-size:12px;color:#999;}
 .newstext p{margin-bottom:30px;text-indent:2em;line-height:27px;}
-
+ */
 /************************************************************************************************************/
 /************************************************************************************************************/
 /*** 招聘信息代码 ***/
-.talent{}
+/* .talent{}
 .talent li span{display:block;float:left;width:171px;text-align:center;height:55px;overflow:hidden;}
 .talent li.headline{height:55px;background:#4f9002;color:#fff;line-height:55px;}
 .talent li.list{position:relative;border-top:solid 1px #ededed;}
@@ -210,12 +210,12 @@ h2{font-size:20px;font-weight:normal;}
 .talent li.selected .listnav .ico{background-position:-46px -185px;}
 
 .talent .list-item{display:none;padding:20px 40px;}
-.talent .list-item p{line-height:27px;}
+.talent .list-item p{line-height:27px;} */
 
 /************************************************************************************************************/
 /************************************************************************************************************/
 /*** 投放简历代码 ***/
-.recruit{text-align:center;}
+/* .recruit{text-align:center;}
 .recruit table tr td{height:30px;padding:0 5px;}
 .recruit input{border:none;outline:medium;height:30px;line-height:30px;}
 .recruit table{border:solid #e9e9e9;border-width:0 1px 1px 0;}
@@ -230,17 +230,17 @@ h2{font-size:20px;font-weight:normal;}
 .recruit div span{display:inline-block;height:30px;border:solid 1px #e9e9e9;padding:0 10px;}
 .recruit div span img{vertical-align:middle;margin-left:10px;}
 .recruit div .key{width:75px;}
-.recruit div .tij{width:148px;height:32px;background:#4e8f02;color:#fff;margin-left:20px;cursor:pointer;}
+.recruit div .tij{width:148px;height:32px;background:#4e8f02;color:#fff;margin-left:20px;cursor:pointer;} */
 
 /************************************************************************************************************/
 /************************************************************************************************************/
 /*** 联系我们代码 ***/
-.contact{}
+/* .contact{}
 .contact .us{float:left;width:235px;color:#fff;background:#4e8f02;padding:80px 50px 0;height:225px;}
 .contact .us h2{font-size:18px;}
 .contact .us p{line-height:27px;padding-left:42px;}
 .contact .us p span{margin-left:-42px;}
-
+ */
 /*.talent{}
 .talent li span{display:block;float:left;width:178px;text-align:center;height:45px;overflow:hidden;}
 .talent li.headline{height:28px;border-bottom:solid 2px #e5e5e5;}
